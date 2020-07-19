@@ -8,6 +8,8 @@ function Ball(props) {
   var speed = props.speed;
   if(speed < 50)
   speed = 10;
+  if(speed > 700)
+  speed = 700;
   var delay = props.delay;
 
   const { ref} = useWebAnimations({
