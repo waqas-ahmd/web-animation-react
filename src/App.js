@@ -34,7 +34,7 @@ function App() {
       </div>
 
       <div className="front">
-        <div className="bballs">BOUNCING BALLS</div>
+        <div className="bballs">MAGIC BALLS</div>
         <div className="balls">
           {balls.map((ball) => {
             return (
