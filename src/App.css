@@ -68,7 +68,7 @@
 }
 
 .f1 {
-  background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v462-n-130-textureidea_1.jpg");
+  background-image: url("bg.jpg");
   background-size: cover;
   background-position: center;
   -webkit-filter: brightness(160%) blur(0.7px);
